@@ -105,6 +105,6 @@ Incluir outras variáveis (umidade, dia da semana, feriados)
 
 Potencial de alcançar R² > 0.85 com feature engineering
 
-Temperatura Ideal: Vendas aumentam significativamente acima de XX°C
+Gerar insight's de temperatura Ideal: Vendas aumentam significativamente acima de XX°C
 
-Sazonalidade: [descreva padrões observados]
+Descrever padrões de Sazonalidade baseado em datas.

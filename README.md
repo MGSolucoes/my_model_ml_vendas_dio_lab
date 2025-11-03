@@ -105,6 +105,6 @@ Incluir outras variáveis (umidade, dia da semana, feriados)
 
 Potencial de alcançar R² > 0.85 com feature engineering
 
-Correlação Forte: Identificamos correlação de XX% entre temperatura e vendas
 Temperatura Ideal: Vendas aumentam significativamente acima de XX°C
+
 Sazonalidade: [descreva padrões observados]
